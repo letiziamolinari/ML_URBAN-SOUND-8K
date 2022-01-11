@@ -1,1 +1,2 @@
 # ML_URBAN-SOUND-8K
+#This project has been submitted as a partial requirement for the course of 'Statistical methods for machine learning'. The goal of the project is the implementation of different neural networks architectures for the classification of sound events based on audio files in the UrbanSound8K dataset, which contains 8732 sound excerpts of urban sounds which belong to ten different classes: airconditioner, carhorn, childrenplaying, dogbark, drilling, engine idling, gunshot, jackhammer, siren and street music.
